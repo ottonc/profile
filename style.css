@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    border: 10px dotted blue;
+}
+
+h2 {
+    color: purple;
+}
+
+body {
+    background-color: cadetblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
